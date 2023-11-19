@@ -1,0 +1,14 @@
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\bin\Debug\net8.0\Proyecto.exe
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\bin\Debug\net8.0\Proyecto.deps.json
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\bin\Debug\net8.0\Proyecto.runtimeconfig.json
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\bin\Debug\net8.0\Proyecto.dll
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\bin\Debug\net8.0\Proyecto.pdb
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.dll
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\obj\Debug\net8.0\refint\Proyecto.dll
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.pdb
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
+C:\Users\Freedy\Desktop\CursosPlatzi\7.Curso_basico_de_programacion_con_C#\9.Proyecto\Proyecto\Proyecto\obj\Debug\net8.0\ref\Proyecto.dll
